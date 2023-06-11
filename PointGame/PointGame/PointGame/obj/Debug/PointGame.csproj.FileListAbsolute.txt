@@ -1,0 +1,7 @@
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\obj\Debug\PointGame.csproj.AssemblyReference.cache
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\obj\Debug\PointGame.csproj.CoreCompileInputs.cache
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\bin\Debug\PointGame.exe.config
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\bin\Debug\PointGame.exe
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\bin\Debug\PointGame.pdb
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\obj\Debug\PointGame.exe
+E:\second\Object Oriented Programming\GitTasks\tasks\New folder\PointGame\PointGame\obj\Debug\PointGame.pdb
